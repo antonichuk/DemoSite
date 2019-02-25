@@ -94,6 +94,13 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+    
+    <dependency>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <version>4.11</version>
+        <scope>test</scope>
+    </dependency>
 
     <modules>
         <module>core</module>
